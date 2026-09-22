@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Spejz">
+  <rect width="512" height="512" rx="112" fill="#0E3B2A"/>
+  <g fill="none" stroke="#E8F24B" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M196 182 250 106M316 182 262 106"/>
+    <path d="M104 182h304l-34 176a54 54 0 0 1-53 44H191a54 54 0 0 1-53-44Z"/>
+    <path d="M216 250v82M296 250v82"/>
+  </g>
+</svg>
